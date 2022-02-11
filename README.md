@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tarun @ramtarun02
-- 👀 I’m interested in Aerospace
+- 👀 I’m interested in Aerospace and Aircraft Design
 - 🌱 I’m currently learning Neural Networks
 - 💞️ I’m looking to collaborate on projects related to Aerodynamics, and CFD.
 - 📫 How to reach me ramtarun.off@gmail.com
